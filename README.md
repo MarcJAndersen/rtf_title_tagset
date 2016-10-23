@@ -5,7 +5,7 @@ SAS ODS MARKUP tagset for creating rtf with title1 going into tables of contents
 # Usage
 
 - clone this repository
-- execute program (./ex1_rtf_title.sas)
+- execute program ex1_rtf_title.sas
 - see ex1_rtf_title.sas.rtf in Word. To see table of contents: Selected Reference | Updated Table of Contents or use ctrl-a F9
 
 # Documentation
@@ -16,7 +16,7 @@ Presentation at SAS Forum 4. Oktober 2012 (http://docplayer.dk/1288143-Ods-measu
 
 # To do
 
-See (./TODO.md) for a list of issues.
+See TODO.md for a list of issues.
 
 
 
